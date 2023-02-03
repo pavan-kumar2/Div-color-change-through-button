@@ -1,0 +1,36 @@
+.container {
+  width: 500px;
+  height: 250px;
+  border: 2px solid black;
+  margin: 20px 0;
+}
+
+.black {
+  background-color: black;
+}
+
+.red {
+  background-color: red;
+}
+
+.blue {
+  background-color: blue;
+}
+
+.green {
+  background-color: green;
+}
+
+.yellow {
+  background-color: yellow;
+}
+
+button {
+  width: 80px;
+  height: 80px;
+  cursor: pointer;
+  color: white;
+  margin: 10px;
+  border-radius: 50%;
+  font-weight: bold;
+}
